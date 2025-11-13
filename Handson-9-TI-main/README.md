@@ -1,8 +1,8 @@
 # Handson Practice: Abstraction & Polymorphism
 
-**Nama:** [Helfan Novilando Hutagaol]
+**Nama:** [Raffael Matthew]
 
-**NIM:** [2481044]
+**NIM:** [2481002]
 
 **Mata Kuliah:** Pemrograman Berorientasi Objek
 
